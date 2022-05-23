@@ -1,3 +1,6 @@
+#pip install cv2 
+#pip install cvzone
+#pip install handdectector
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
